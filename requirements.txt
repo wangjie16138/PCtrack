@@ -1,0 +1,14 @@
+scikit-image
+einops>=0.3
+easydict
+numpy
+numba
+nuscenes-devkit
+tensorboardX
+thop
+tqdm
+timm==0.3.2
+pyyaml
+pandas
+prefetch-generator
+pomegranate==0.14.0
